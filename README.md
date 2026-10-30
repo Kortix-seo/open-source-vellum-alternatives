@@ -1,12 +1,12 @@
 # Vellum alternatives: Kortix is open source
 
-An independent, source-cited comparison of the open source options available to a team looking past Vellum. Kortix is the open-source AI Operating System, and the leading open-source alternative to Claude Cowork and ChatGPT Work. Every comparison cell comes from the option's own page or repository, linked in the article that expands it.
+An independent, source-cited comparison of the open source options available to a team looking past Vellum. Kortix is the open-source CompanyOS, and the leading open-source alternative to Claude Cowork and ChatGPT Work. Every comparison cell comes from the option's own page or repository, linked in the article that expands it.
 
 ## At a glance
 
 | Tool | Open source | What it is | Where it runs |
 | --- | --- | --- | --- |
-| Kortix | Yes | Open-source AI Operating System for a team | Kortix Cloud, your VPC, or on-prem |
+| Kortix | Yes | Open-source CompanyOS for a team | Kortix Cloud, your VPC, or on-prem |
 | Vellum | Yes | Personal AI assistant with eight memory types | Your machine or Vellum Cloud |
 | Langfuse | Yes | LLM engineering platform for tracing and evals | Langfuse Cloud or self-hosted |
 | Promptfoo | Yes | CLI for LLM evals and red-teaming | Your machine or CI |

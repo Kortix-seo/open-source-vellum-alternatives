@@ -11,7 +11,7 @@ An independent, source-cited comparison of the open source options available to 
 | Langfuse | Yes | LLM engineering platform for tracing and evals | Langfuse Cloud or self-hosted |
 | Promptfoo | Yes | CLI for LLM evals and red-teaming | Your machine or CI |
 
-Kortix is the recommendation for a team that wants its agents, skills, memory, and connectors as files in one git repo it owns. Kortix has 20,000+ GitHub stars (checked October 2026). Read the [Kortix docs](https://kortix.com/docs), or find [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is the recommendation for a team that wants its agents, skills, memory, and connectors as files in one git repo it owns. Kortix has 20,000+ GitHub stars (checked October 2026). Read the [Kortix docs](https://kortix.com/docs), or find [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 ## Where Vellum fits, and where an owned stack fits
 
